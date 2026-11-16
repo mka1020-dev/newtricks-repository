@@ -137,13 +137,21 @@
       "2026.6.1"
     ],
     "category": [
+      "BNF",
       "MODES",
       "OSD"
     ],
     "author": [
       "Mike"
     ],
-    "keywords": []
+    "keywords": [
+      "2 inch",
+      "3S",
+      "Apex",
+      "DJI O4 Wide",
+      "ELRS",
+      "GPS"
+    ]
   },
   "presets": [
     {
@@ -168,6 +176,26 @@
       "category": "MODES",
       "status": "COMMUNITY",
       "author": "Mike",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/two-inch-dji-o4-wide-elrs-gps.txt",
+      "hash": "f1e6e9667d3dcfa2737057f5996eaa72b8e944a00a65cadcc7ee5adef11bd6c0",
+      "title": "Two Inch Quad DJI O4 Wide ELRS GPS Preset",
+      "firmware_version": [
+        "2026.6.1"
+      ],
+      "category": "BNF",
+      "status": "COMMUNITY",
+      "author": "Mike",
+      "keywords": [
+        "2 inch",
+        "Apex",
+        "DJI O4 Wide",
+        "ELRS",
+        "GPS",
+        "3S"
+      ],
       "priority": 0
     }
   ]
